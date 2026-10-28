@@ -1,0 +1,4 @@
+interface:
+  display_name: "Big-Head Mini Photo"
+  short_description: "上传人物照片，选择原地大头或原场景微型人，生成写实大头小人照片"
+  default_prompt: "使用 $big-head-mini-photo，把我上传的人物照片做成大头小人照片。"
